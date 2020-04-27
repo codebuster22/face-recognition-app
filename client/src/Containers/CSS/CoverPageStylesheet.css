@@ -1,0 +1,19 @@
+.coverPage{
+    display: inline-block;
+    background-size: cover;
+    padding: 3rem 0 0;
+    margin-bottom: 1rem;
+    width: fit-content;
+    height: fit-content;
+    justify-content: center;
+}
+
+
+.center{
+    margin: 0 auto
+}
+
+.Tilt{
+   width: fit-content;
+    height: fit-content;
+}

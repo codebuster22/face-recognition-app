@@ -1,0 +1,13 @@
+.profile{
+    display: inline-block;
+
+}
+
+.br-100{
+    transition: all 0.2s ease-in;
+}
+
+.br-100:hover{
+    opacity: 0.8;
+    transform: scale(1.2);
+}
